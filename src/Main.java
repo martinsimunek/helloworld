@@ -13,7 +13,7 @@ public class Main {  // pravý Alt+B { ... pravý Alt + N }
         System.out.println("To je fajn, že nemusím psát v Poznámkovém bloku... ;)");
 
         /*
-         *  Víceřádkový komentář
+         *  Víceřádkový komentář   ahoj
          *  Když jeden řádek nestačí... ;)
          */
 
